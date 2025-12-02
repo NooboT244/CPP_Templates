@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-const void lightningSpeed()
+const void lightningSpeed()                                                      //Speed up code
 {
     ios::sync_with_stdio(0);
     cin.tie(0);
@@ -15,7 +15,7 @@ const void lightningSpeed()
 const double PI = 3.141592653589793;
 
 void solve();
-void solveT()
+void solveT()                                                                    //Test case wise solve
 {
     int t;
     cin >> t;
@@ -35,5 +35,5 @@ int32_t main()
 
 void solve()
 {
-
+//code here 
 }
