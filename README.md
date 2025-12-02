@@ -7,7 +7,7 @@ development and keep my code clean and organized.
 ---
 
 ## 🔧 What's Inside?
-- Template/Global.cpp (It contains fast I/O and Test-case handling function)
+- Templates/Global.cpp (It contains fast I/O and Test-case handling function)
 ---
 
 ## 📌 How to Use
