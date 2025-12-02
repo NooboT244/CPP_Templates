@@ -7,16 +7,7 @@ development and keep my code clean and organized.
 ---
 
 ## 🔧 What's Inside?
-- Fast I/O template
-- Math utilities
-- Graph algorithms
-- String algorithms
-- Dynamic programming helpers
-- STL shortcuts
-- Useful macros
-- Debugging tools
-- And more…
-
+- Global.cpp (It contains fast I/O and Test-case handling function)
 ---
 
 ## 📌 How to Use
