@@ -39,5 +39,4 @@ See the LICENSE file for full details.
 ## ✨ Author
 **Rashidul Hasan**  
 GitHub: *[#NooboT244](https://github.com/NooboT244)*
-Mail: *[Mail Me](hamimhasan244@gmail.com)*
 
