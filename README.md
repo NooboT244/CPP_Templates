@@ -38,5 +38,5 @@ See the LICENSE file for full details.
 
 ## ✨ Author
 **Rashidul Hasan**  
-GitHub: *(add your GitHub profile link)*
+GitHub: *[(add your GitHub profile link)](https://github.com/NooboT244)*
 
