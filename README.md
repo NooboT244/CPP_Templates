@@ -8,7 +8,7 @@ development and keep my code clean and organized.
 
 ## 🔧 What's Inside?
 - Templates/Global.cpp (It contains fast I/O and Test-case handling function)
-- Templates/BinarySearch.cpp (To find a item from large set of data)
+- Templates/BinarySearch.cpp (To find a item from large set of data in a short time)
 ---
 
 ## 📌 How to Use
