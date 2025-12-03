@@ -1,7 +1,7 @@
 
 // TC:O(logn)
 
-/*from a long data set it easyly check is one element exist or not:*/
+/*from a long/large data set it easyly check is one element exist or not:*/
 
 bool binarySearch(const vector<long long> &v, const long long &n)
 {
@@ -23,3 +23,4 @@ bool binarySearch(const vector<long long> &v, const long long &n)
     }
     return 0;
 }
+
