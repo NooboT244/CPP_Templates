@@ -1,6 +1,6 @@
 string var_name;                               // dynamic char array                              TC: O(1)
 
-vector<any-datatype> var_name;                 //empty dynamic array can increase size                  TC: O(1)
+vector<any-datatype> var_name;                 //empty dynamic array can increase size            TC: O(1)
 vector<any-datatype> var_name(n);              //n size dynamic array                             TC: O(1)
 vector<any-datatype> var_name(n,x);            //n size x initialized dynamic array               TC: O(1)
 
