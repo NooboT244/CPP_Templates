@@ -30,16 +30,16 @@ bool binarySearch(const vector<long long> &v, const long long &n)
  * * NOTE: This function requires the input vector 'v' to be **already sorted**.
  * * Example:
  * If v = [7, 7, 7, 7, 9, 10, 14] (Indices 0, 1, 2, 3, 4, 5, 6)
- * kye = 7, 
+ * key = 7, 
  * It returns index 4 (where the '9' is).
  */
-int custom_upper_bound(const vector<long long> &v, long long kye)
+int custom_upper_bound(const vector<long long> &v, long long key)
 {
     int l, r;
     for (l = 0, r = (v.size() - 1); l <= r;)
     {
         int mid = (l + r) / 2;
-        if (v[mid] > kye)
+        if (v[mid] > key)
         {
             r = (mid - 1);
         }
@@ -56,16 +56,16 @@ int custom_upper_bound(const vector<long long> &v, long long kye)
  * * This is equivalent to std::lower_bound.
  * * * Example:
  * v: [7, 7, 7, 7, 9, 10, 14] (Indices 0, 1, 2, 3, 4, 5, 6)
- * Kye: 7
+ * Key: 7
  * Returns: 0 (The index of the first '7').
  */
-int custom_lower_bound(const vector<long long> &v, long long kye)
+int custom_lower_bound(const vector<long long> &v, long long key)
 {
     int l, r;
     for (l = 0, r = (v.size() - 1); l <= r;)
     {
         int mid = (l + r) / 2;
-        if (v[mid] >= kye)
+        if (v[mid] >= key)
         {
             r = (mid - 1);
         }
@@ -76,5 +76,6 @@ int custom_lower_bound(const vector<long long> &v, long long kye)
     }
     return l;
 }
+
 
 
