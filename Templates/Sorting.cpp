@@ -1,4 +1,6 @@
 /*this is a selection sort algorithm*/
+//TC = O(n^2)
+
 void selection_sort(vector<int> &v, char flag)
 {
     if (flag != 'g' && flag != 's')
